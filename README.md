@@ -4,6 +4,7 @@ This repository contains code and data for the paper "Elaborative Simplification
 The goal of this investigation is to analyze elaborative simplification (simplification where new or implicit information is explicitly added) through the lens of Question Under Discussion (QUD). We collect QUDs and the pieces of text that trigger them (targets) for a previously established elaborative simplification data set, analyzing both the QUDs and targets. Additionally, we experiment with pipelines for generating QUDs as well as the elaborations themselves.
 
 ## Code
+(Work in progress) Scripts for processing the data as well as paper experiments can be found under the ```code``` folder.
 
 ## Data
 ElabQUD, this work's new data set of QUDs and targets for elaborations, can be found under the ```data``` folder. This is based off the 
