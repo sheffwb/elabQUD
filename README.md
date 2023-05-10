@@ -6,4 +6,5 @@ The goal of this investigation is to analyze elaborative simplification (simplif
 ## Code
 
 ## Data
-ElabQUD, this work's new data set of QUDs and targets for elaborations, can be found under the ```data``` folder. 
+ElabQUD, this work's new data set of QUDs and targets for elaborations, can be found under the ```data``` folder. This is based off the 
+data set created by Srikanth & Li (2021)'s work [Elaborative Simplification: Content Addition and Explanation Generation in Text Simplification](https://arxiv.org/abs/2010.10035), which labeled 1299 elaborations in the Newsela text-simplification data set ([Xu et al., 2015](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00139/43283/Problems-in-Current-Text-Simplification-Research)).
