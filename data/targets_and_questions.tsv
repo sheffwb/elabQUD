@@ -48,17 +48,17 @@ file_num	elab_line	worker_num	question	target_line	target
 103	24	4	What is the name of that which is responsible for this transformation?	19	it turns
 103	25	4	In what season are these worst days likely to be occurring?	20	on the worst days
 103	27	3	In what topic is Tim Nelson an expert?	24	algae
-1030	1	3	Why did the Thai students learn the hand signal?	0	"Hunger Games" movies
+1030	1	3	Why did the Thai students learn the hand signal?	0	""Hunger Games"" movies
 1030	2	3	What has the army banned?	1	freedom
 103	27	5	What is the profession of the person who said that seaweed is hard to stop once it starts growing?	30	seaweed starts growing
 1030	1	5	Why does the army see holding up of three fingers as illegal?	2	sign of holding up three fingers
 1030	2	5	What were young people getting arrested for using?	3	for using it
 1030	5	0	What can happen to someone who uses the banned three finger sign?	2	army has banned the sign of holding up three fingers
-1030	7	0	What are the Hunger Games books about?	6	"Hunger Games" books
-1030	9	0	What do people think of the Hunger Games movie?	4	movie theater showing "The Hunger Games
+1030	7	0	What are the Hunger Games books about?	6	""Hunger Games"" books
+1030	9	0	What do people think of the Hunger Games movie?	4	movie theater showing ""The Hunger Games
 1030	5	3	Why are students being arrested?	3	arrested young people
 1030	7	3	What happens in the Hunger Games books?	2	the sign of holding up three fingers
-1030	9	3	How have the books and movie been received?	6	"Mockingjay" is based on the "Hunger Games" books.
+1030	9	3	How have the books and movie been received?	6	""Mockingjay"" is based on the ""Hunger Games"" books.
 1030	12	3	According to some, why should the officials have been allowed to stay in power?	13	Thailand's army took over running the country
 1031	1	3	What are examples of some jobs that Barbie has had?	0	Barbie doll
 1031	24	3	What does Coding mean?	25	Computer engineers, or software engineers, write code to build websites, apps and games
@@ -77,7 +77,7 @@ file_num	elab_line	worker_num	question	target_line	target
 1034	22	0	Why did a grand jury decide if the officer should be charged?	20	grand jury decided not to charge the officer
 1036	13	0	Why is Muir no longer important?	9	Muir is no longer important
 1036	31	0	What did Muir think appreciating the mountains would do for people?	29	appreciate their mountains
-1036	48	2	What did she want to say by saying  "He was a man of his times"?	47	"He was a man of his times," she said.
+1036	48	2	What did she want to say by saying  ""He was a man of his times""?	47	""He was a man of his times,"" she said.
 1036	49	2	Prejudices against who did they have?	48	Many people in his time had prejudices.
 1037	6	2	How does she help?	5	She helps teens.
 1036	48	0	What made him a man of his time?	47	man of his times
@@ -124,7 +124,7 @@ file_num	elab_line	worker_num	question	target_line	target
 1053	15	3	What was Serova's response to some of the questions?	10	Russian reporters asked if she was taking makeup with her to space
 1047	8	1	Why do the men gather in Pearl Harbor?	6	men gather in Pearl Harbor
 1049	22	1	Why is Bedford's sense important?	21	sense of what is a good apple and what is not is important
-1053	15	1	What does Serova's response indicate about her feeling?	13	she said: "Why don't you ask the question about Alexander's hair?
+1053	15	1	What does Serova's response indicate about her feeling?	13	she said: ""Why don't you ask the question about Alexander's hair?
 1054	3	3	What does the CIA do?	2	The CIA is the U.S. agency that spies on groups and countries
 1054	4	3	How does the CIA do its job?	3	gather information to keep the U.S. safe
 1056	16	3	How did home-packed lunches differ from cafeteria lunches?	12	big differences between cafeteria food and packed lunches
@@ -276,7 +276,7 @@ file_num	elab_line	worker_num	question	target_line	target
 1102	48	3	What took place in Beijing?	49	Many countries were invited
 1102	53	3	What environmental measures did China implement before the meeting?	50	Chinese government made a huge effort to clear the air
 1103	21	3	How do government grants for college today compare to grants given in the past?	20	past 30 years, the cost has almost tripled
-1104	4	3	When was Winnie-the-Pooh written?	3	"Winnie-the-Pooh" is a book by A.A. Milne
+1104	4	3	When was Winnie-the-Pooh written?	3	""Winnie-the-Pooh"" is a book by A.A. Milne
 1104	27	3	What do people think about Pooh being in a United States library?	28	Pooh should return to England
 1103	21	1	Why is cost increase a problem for students?	20	cost has almost tripled
 1104	4	1	When was the book written?	3	book
@@ -286,11 +286,11 @@ file_num	elab_line	worker_num	question	target_line	target
 1105	14	0	Why were people wearing signs?	13	people in France wore signs
 1104	39	1	What is the opinion of reader on this?	34	Pooh should stay in New York
 1105	12	1	What has Charlie hebdo done that stirred up anger?	11	Charlie Hebdo has stirred up a lot of anger
-1105	14	1	Why did people in France wear sign that said "Je suis Charlie"?	13	people in France wore signs that said "Je suis Charlie.
-1105	15	5	Why were people motivated to display "Je suis Charlie" signs?	13	Je suis Charlie
+1105	14	1	Why did people in France wear sign that said ""Je suis Charlie""?	13	people in France wore signs that said ""Je suis Charlie.
+1105	15	5	Why were people motivated to display ""Je suis Charlie"" signs?	13	Je suis Charlie
 1106	1	5	Why do teams prefer to move to Los Angeles?	2	move to Los Angeles
 1106	24	5	How were the NFL stadiums able to be completely built?	23	27 NFL stadiums have been built
-1105	15	1	Why did people wear sign that said "Je suis Charlie"?	13	many people in France wore signs
+1105	15	1	Why did people wear sign that said ""Je suis Charlie""?	13	many people in France wore signs
 1106	1	1	What is the place of Los Angeles in National Football League?	0	no National Football League (NFL) team in Los Angeles
 1106	24	1	Who pays the cost of stadiums?	23	stadiums have been built or fixed up
 1108	11	3	What did the Air Force analysts discover?	13	Islamic State group was fighting Iraq's military
@@ -337,13 +337,13 @@ file_num	elab_line	worker_num	question	target_line	target
 361	38	1	Why did Chavez organize farm workers?	37	Chavez organized farm workers
 746	5	4	What organization is the new center affiliated with?	4	the new Culinary Literacy Center
 746	13	4	How did she emphasize that this was important?	12	learn to read
-746	16	4	What does it mean for a person to be "low literate"?	14	low literate
+746	16	4	What does it mean for a person to be ""low literate""?	14	low literate
 746	5	1	Where is Culinary Literacy Center located?	4	Culinary Literacy Center
 746	13	1	What did Siobhan Reardon tell?	10	Siobhan Reardon
-746	16	1	What is "low literate"?	14	low literate
+746	16	1	What is ""low literate""?	14	low literate
 746	5	0	What is the new Culinary Literacy Center?	4	new Culinary Literacy Center
 746	13	0	What did Reardon say about people learning to read?	12	learn to read
-746	16	0	What does it mean if someone is "low literate"?	14	known as "low literate
+746	16	0	What does it mean if someone is ""low literate""?	14	known as ""low literate
 261	37	0	What was interesting about her life after the social revolution?	36	life after the social revolution
 707	5	0	Do the scientist know why the mountains are rising faster?	2	scientists found that the mountains closest to the Central Valley were rising faster than expected
 865	1	0	What did Stephen Buckley and Jana Jones do?	2	what Stephen Buckley and Jana Jones did
@@ -453,7 +453,7 @@ file_num	elab_line	worker_num	question	target_line	target
 696	20	1	Is that a feasible thing to do?	19	every town will grow its own meat
 218	1	1	What lies near volcano?	4	volcano
 83	54	5	Which people are the targets of the general educational development (GED)?	53	general educational development (GED)
-666	10	5	Where there other times Obama spoke about recovering the young ladies aside on Tuesday?	9	The goal "is to do everything we can to recover these young ladies," Obama said Tuesday
+666	10	5	Where there other times Obama spoke about recovering the young ladies aside on Tuesday?	9	The goal ""is to do everything we can to recover these young ladies,"" Obama said Tuesday
 666	32	5	What sort of things from Western countries is Boko Haram against?	31	against anything that comes from Western countries
 83	54	4	Who might pursue a GED?	53	GED
 666	10	4	Where does Obama's talk about recovery fit within the overall timeline of his speaking about the event?	9	Obama said
@@ -532,16 +532,16 @@ file_num	elab_line	worker_num	question	target_line	target
 112	62	0	What does the name Tyrannosaurus Rex mean?	64	did live up to its name
 1132	30	5	What questions are asked during the civics test about American government?	29	civics test about American government
 711	25	5	What was the relationship between Jacques Bailly and the spellers?	24	Jacques Bailly
-112	62	5	What does the "T" in T. rex signify?	59	T. rex
+112	62	5	What does the ""T"" in T. rex signify?	59	T. rex
 798	13	0	Why will Henderson's computer program be important?	12	program will be very important
 798	23	0	What are biologists?	22	biologists
-798	37	0	What was challenging about making bubbles for "Home"?	36	challenge was creating those bubbles
+798	37	0	What was challenging about making bubbles for ""Home""?	36	challenge was creating those bubbles
 798	13	1	What does Henderson's computer program do?	12	Henderson's computer program
 798	23	1	What do biologists do?	22	biologists
-798	37	1	What is the significance of bubbles in "Home" movie?	36	bubbles in "Home."
+798	37	1	What is the significance of bubbles in ""Home"" movie?	36	bubbles in ""Home.""
 798	13	5	Why will Henderson's computer program be required?	12	Henderson's computer program
 798	23	5	What does a biologist do?	22	biologists
-798	37	5	Are the bubbles in "Home"  meant for living alone?	36	bubbles in "Home."
+798	37	5	Are the bubbles in ""Home""  meant for living alone?	36	bubbles in ""Home.""
 582	8	0	What led Daniel Miller to believe a mudslide would happen?	6	might be a large mudslide
 582	34	0	What kind of happens?	33	kind of what happens
 558	26	0	What else is being scanned in?	25	scan in
@@ -571,7 +571,7 @@ file_num	elab_line	worker_num	question	target_line	target
 604	3	3	What do scientists think caused the end-Permian extinction?	4	tiny microbes on the bottom of the ocean
 604	5	0	What are microbes?	4	microbes
 217	10	0	What made this shooting different from the rest?	9	Shootings have been common
-358	6	0	Was Franklin talking about all turkeys when he said they were respectable birds?	4	turkey is a "much more respectable bird
+358	6	0	Was Franklin talking about all turkeys when he said they were respectable birds?	4	turkey is a ""much more respectable bird
 604	5	5	How can we see these tiny microbes?	4	tiny microbes
 217	10	5	Do a lot of victims die during these shootings?	9	Shootings
 358	6	5	Are wild turkeys the same as the regular turkey?	5	wild turkeys
@@ -604,10 +604,10 @@ file_num	elab_line	worker_num	question	target_line	target
 328	42	0	Why is having fish important?	39	you don't have fish
 328	25	5	What is one way to burn less fuel?	24	burning less fuels
 328	27	5	What other way can one burn fuel?	26	Heating a house burns fuel
-328	42	5	Do you understand the importance of not having snorkelers?	41	"you don't have snorkelers."
+328	42	5	Do you understand the importance of not having snorkelers?	41	""you don't have snorkelers.""
 182	45	0	What did he do from 2008 to 2012?	44	from 2008 to 2012
 534	54	0	Why do the scientist want to know how a grid of neurons share information?	53	they share information
-808	6	0	What kind of trade sanctions are being considered by Russia?	5	put "trade sanctions" in place
+808	6	0	What kind of trade sanctions are being considered by Russia?	5	put ""trade sanctions"" in place
 182	45	1	What did Keith's department do?	44	He worked for the U.S. government
 534	54	1	What do scientists hope to achieve after watching the information from neurons?	53	they watched
 808	6	1	Which countries is Russia putting sanctions on?	5	trade sanctions
@@ -668,10 +668,10 @@ file_num	elab_line	worker_num	question	target_line	target
 732	14	1	What is the benefit of recognition for tribes?	13	Recognition is important for tribes
 732	15	1	How can recognition improve health of tribe members?	13	Recognition is important for tribes
 732	22	1	Why is giving proof of their history difficult for some tribes?	21	not easy for some tribes
-80	15	5	What else can be done with Google's "person finder" app?	14	Google has set up a "person finder" app
+80	15	5	What else can be done with Google's ""person finder"" app?	14	Google has set up a ""person finder"" app
 435	34	5	What do the manufacturers of solar tags say about its overall success?	31	The overall success of solar tags is not yet know
 435	38	5	Where does the person who explained that sharks never hang out the surface of the ocean works?	39	He explained that most sharks don't hang out near the surface of the ocean
-80	15	0	Does the Google app do anything else?	14	Google has set up a "person finder" app
+80	15	0	Does the Google app do anything else?	14	Google has set up a ""person finder"" app
 435	34	0	How successful are the tags so far?	31	overall success of solar tags
 435	38	0	Who buys solar tags?	34	more and more people are buying them
 80	15	4	Is the Google app useful for anything else?	14	track down
@@ -755,7 +755,7 @@ file_num	elab_line	worker_num	question	target_line	target
 896	33	0	How does the project help kids lose weight?	31	project helps kids lose weight.
 996	30	0	What is helping to make basketball more popular?	27	basketball is becoming more popular
 373	14	0	Why do most workers suffer?	13	workers are suffering
-896	33	5	What is one of the goals of the "Let's Move" project?	30	"Let's Move" project
+896	33	5	What is one of the goals of the ""Let's Move"" project?	30	""Let's Move"" project
 996	30	5	What is an advantage of basketball to women in Saudi Arabia?	27	basketball
 373	14	5	Why are fast-food workers suffering?	13	Fast-food workers are suffering
 373	16	3	What do the rules governing companies you for businesses?	15	government wrote the rules of how companies can work
@@ -869,7 +869,7 @@ file_num	elab_line	worker_num	question	target_line	target
 735	6	0	How long where these books on the test syllabus?	5	not on the test's syllabus anymore
 445	29	0	What are the two places where the rich are not growing richer than the rest of the people in the country?	28	only two places
 140	4	0	Is there anything special about the embassy?	3	representative to a country works.
-735	6	6	What country studied these books?	5	Of Mice and Men" and "To Kill A Mockingbird"
+735	6	6	What country studied these books?	5	Of Mice and Men"" and ""To Kill A Mockingbird""
 445	29	6	In what countries were the rich not growing richer than the rest of the people.	28	two places where the rich were not growing richer than the rest of the people
 140	4	6	Why are US embassies considered US soil?	3	where the official U.S. representative to a country works
 140	27	6	How did the secret court come about?	26	secret court
@@ -979,7 +979,7 @@ file_num	elab_line	worker_num	question	target_line	target
 895	42	1	What would be the trouble for birds?	41	birds would be in even more trouble
 545	11	3	How else did the scientists monitor the study participants?	8	pleasure in music
 240	9	3	Why do people need passports?	8	stop giving out some passports
-319	26	3	What is the purpose of a "control group" when conducting an experiment?	25	a control
+319	26	3	What is the purpose of a ""control group"" when conducting an experiment?	25	a control
 545	11	5	What other clues beside changes in heart rate did the scientists look out for?	10	changes in heart rate.
 240	9	5	What is the importance of passports?	8	passports
 319	26	5	Why are control groups created?	25	That group was used as a control
@@ -1061,7 +1061,7 @@ file_num	elab_line	worker_num	question	target_line	target
 185	52	3	What does the name Curyung mean?	51	Curyung
 681	42	3	What does NASA need to know about asteroids?	41	find and track asteroids
 280	2	3	How would you expect GM to sell more trucks?	1	prices
-185	52	5	Where does the name "Curyung"b originate from?	51	Curyung
+185	52	5	Where does the name ""Curyung""b originate from?	51	Curyung
 681	42	5	Why is there a need to be able to find and track asteroids?	41	They want to be able to find and track asteroids
 280	2	5	What is the general expectation of GM not dropping its prices?	1	GM is not dropping its prices
 185	52	1	What is ?	51	Curyung
@@ -1073,7 +1073,7 @@ file_num	elab_line	worker_num	question	target_line	target
 492	14	5	What is a unique trait of Afghan marriages that are arranged by families?	13	Afghan marriages are arranged by families
 640	4	5	What is the role of the wheels?	3	wheels
 640	10	5	What day did the California teenager survived a 5½-hour, nonstop flight to Maui, Hawaii?	11	California teenager survived a 5½-hour, nonstop flight to Maui, Hawaii
-640	14	6	What is a serious issue that the group is concerned with?	13	someone else can plant a bomb."
+640	14	6	What is a serious issue that the group is concerned with?	13	someone else can plant a bomb.""
 640	15	6	What is  does the group research?	14	different issues for the government.
 356	19	6	What is a good aspect of the elements that make up solar panels?	18	a lot of those elements around
 640	14	0	Why is he thinking about bombs being planted?	13	someone else can plant a bomb.
@@ -1095,13 +1095,13 @@ file_num	elab_line	worker_num	question	target_line	target
 6	29	1	Why don't people acquire the necessary skills?	28	do not have the education or the skills
 520	8	6	Why is it important for the University to have the students go to college?	7	college is in their future.
 533	8	6	What is obesity?	7	obesity
-533	46	6	What is the problem with small serving sizes?	45	"the half-cup of ice cream" or "2-ounce muffins and bagels."
+533	46	6	What is the problem with small serving sizes?	45	""the half-cup of ice cream"" or ""2-ounce muffins and bagels.""
 520	8	0	Where is Western University?	7	Western University
 533	8	0	What does it mean if someone has obesity?	7	obesity
 533	46	0	Why do some consider the current serving sizes for foods a joke?	44	serving sizes for many foods are a joke
 533	48	1	What will be changed about foods and drinks that are usually finished all at once?	47	finished all at once
 34	14	1	How did rescuers deal with visibility and light issue?	13	Rescuers
-557	12	1	What does "survival of the fittest" mean?	11	survival of the fittest
+557	12	1	What does ""survival of the fittest"" mean?	11	survival of the fittest
 533	48	5	How will packaged foods and drinks that are usually finished all at once be handled?	47	packaged foods and drinks are usually finished all at once
 34	14	5	What action did the rescuers take since it was hard to hear cries for help?	13	hard to hear cries for help
 557	12	5	What does the phrase ''survival of the fittest'' mean to an animal?	11	survival of the fittest
@@ -1173,7 +1173,7 @@ file_num	elab_line	worker_num	question	target_line	target
 277	39	0	Is faster communication between the two sides of Einstein's brain the only explanation for his genius?	38	It may have helped
 790	51	3	What might happen with respect to the experts' advice?	46	advice given swimmers
 286	32	3	What happened to the effort to save certain species?	28	protect the animals
-802	3	3	How many countries and territories will the play be performed?	1	Shakespeare's "Hamlet" will soon be heard all over the world
+802	3	3	How many countries and territories will the play be performed?	1	Shakespeare's ""Hamlet"" will soon be heard all over the world
 790	51	5	What do people expect of the advice given to swimmers by the experts?	46	Experts are now deciding whether or not to change the advice given swimmers.
 286	32	5	What hurdle did the government face in its effort to help protect the animals?	28	the government is coming up with ideas to help protect the animals
 802	3	5	How many countries and territories exist in the world?	2	every country and territory in the world
@@ -1207,7 +1207,7 @@ file_num	elab_line	worker_num	question	target_line	target
 333	20	0	Why are new types of cats still being found?	16	newly found cat
 852	8	0	What do conservation workers do?	6	work in conservation
 853	24	0	Why does the American Academy of Pediatrics feel school should start later?	19	school should start later
-359	32	3	What is the bacteria's DNA?	31	order or sequence of "letters"
+359	32	3	What is the bacteria's DNA?	31	order or sequence of ""letters""
 372	22	3	How likely is it that a poor American child will grow up to be rich?	21	a child born into one of the poorest families in America
 934	51	3	Has the situation with Russia improved?	50	young men in the Soviet Union
 359	32	6	What is DNA?	31	DNA.
@@ -1295,10 +1295,10 @@ file_num	elab_line	worker_num	question	target_line	target
 407	50	3	How do jellyfish move?	45	jellyfish
 920	19	3	What are the Bushmen?	18	conversations among the Ju/'hoansi Bushmen
 920	9	6	What does melatonin do?	8	their bodies made a chemical called melatonin.
-1050	12	6	How did the protestors get their words across?	11	Black lives matter!"
+1050	12	6	How did the protestors get their words across?	11	Black lives matter!""
 1050	33	6	What was a benefit of the change the act caused?	32	Civil Rights Act led to change
 920	9	0	What does melatonin do?	8	a chemical called melatonin
-1050	12	0	Who were the words black lives matter first spoken by?	11	"Black lives matter!"
+1050	12	0	Who were the words black lives matter first spoken by?	11	""Black lives matter!""
 1050	33	0	What changes did the Civil Rights Act lead to?	32	Civil Rights Act led to change
 923	36	6	What is the cost of living?	35	how the cost of living would be measured.
 1182	11	6	What is another way the biggest farms are helping workers?	10	given workers new toilets and beds.
@@ -1363,7 +1363,7 @@ file_num	elab_line	worker_num	question	target_line	target
 461	7	6	How can Obama achieve his goal?	6	Obama wants to make
 725	2	6	What happened after the Kennewick man was found and studied?	1	The Kennewick Man is a skeleton found
 983	1	6	What caused life to be hard for Japanese people in the US?	0	life was very difficult for Japanese people living in the United States.
-461	7	5	How can the President's ''executive'' power be described?	8	president's "executive" power
+461	7	5	How can the President's ''executive'' power be described?	8	president's ""executive"" power
 725	2	5	What was peculiar about the bones of the skeleton of the Kennewick Man?	1	The Kennewick Man is a skeleton
 983	1	5	Why was life difficult for Japanese people living in the United States?	0	life was very difficult for Japanese people living in the United States
 92	11	4	What did they do as a result of their desperation?	10	desperate to save
@@ -1434,7 +1434,7 @@ file_num	elab_line	worker_num	question	target_line	target
 1006	2	1	Against whom would the new team play?	0	new football team
 1	16	0	How did he copy the watermark?	15	copy the watermark
 1002	2	0	What animals does the Museum of Natural History have?	0	has many animals
-1006	2	0	Who would the London team play?	0	new football team " in London,
+1006	2	0	Who would the London team play?	0	new football team "" in London,
 1008	31	1	What is Lieberthal's expectation from other countries?	30	U.S. and China
 1017	4	1	How are drones which aren't flown by onboard computers controlled?	3	flown by onboard computers
 1117	26	1	What danger does sniffing gasoline presents?	25	dangerous
@@ -1622,10 +1622,10 @@ file_num	elab_line	worker_num	question	target_line	target
 576	29	0	What is important about the school year of 2011-2012?	28	2011-2012 school year
 591	7	0	What do fat and salt in a diet do?	6	less fat and salt
 596	22	1	Why is living area of panthers shrinking?	21	shrinking
-6	45	1	In what grades should "culture of success" program be applied?	44	not just in high school
+6	45	1	In what grades should ""culture of success"" program be applied?	44	not just in high school
 608	11	1	In what other countries are Chinese looking for land?	10	far-off places
 596	22	3	What is causing the living area of cats to shrink?	20	Florida panthers
-6	45	3	Where in the school system does a "culture of success" exist?	43	College Summit
+6	45	3	Where in the school system does a ""culture of success"" exist?	43	College Summit
 608	11	3	To where are Chinese farmers looking to expand?	7	Chinese are looking overseas
 613	33	1	How is deficiency of puppies in North filled?	32	aren't enough puppies
 620	27	1	Why do people develop prejudice?	26	prejudice
@@ -1687,20 +1687,20 @@ file_num	elab_line	worker_num	question	target_line	target
 791	1	0	What do golfer's need along with statistical analysis?	2	That something is statistical analysis.
 794	36	0	What can a positive male role model do for students?	33	positive male role model
 800	8	0	What are Africa's valuable resources doing for Africa?	6	Africa has many valuable natural resources
-802	0	0	What is part of the famous speech from "Hamlet"?	1	famous speech from Shakespeare's "Hamlet"
+802	0	0	What is part of the famous speech from ""Hamlet""?	1	famous speech from Shakespeare's ""Hamlet""
 804	22	0	Why is the Islamic State group fighting?	20	Islamic State group is fighting
 810	4	0	What countries did the farmers come from?	3	farmers came from countries
-802	0	3	Which play contains the famous line "To be, or not to be, that is the question."	1	Shakespeare's "Hamlet"
+802	0	3	Which play contains the famous line ""To be, or not to be, that is the question.""	1	Shakespeare's ""Hamlet""
 804	22	3	Who seeks to control Syria and Iraq?	20	Islamic State group
 810	4	3	From where do some of the farmers come	3	countries around the world.
 811	47	0	What do scientists know about EPAS1?	46	Scientists still don't know
 822	13	0	How big will the new pool be?	12	pool will be very big.
-827	33	0	Why does Stein call the soldiers a lost generation?	32	"lost generation.
+827	33	0	Why does Stein call the soldiers a lost generation?	32	""lost generation.
 811	47	3	What do people who live high in the mountains need?	46	EPAS1
 822	13	3	How big will the new pool be?	12	very big
-827	33	3	What did Gertrude Stein call the group of soldiers who were considered damaged?	32	a "lost generation."
+827	33	3	What did Gertrude Stein call the group of soldiers who were considered damaged?	32	a ""lost generation.""
 833	4	0	Why are people protesting?	3	people have been protesting
-837	7	0	Did the "zero tolerance" policy work?	4	zero tolerance" policy
+837	7	0	Did the ""zero tolerance"" policy work?	4	zero tolerance"" policy
 840	26	0	How did the warlords gain power?	27	warlords in Lebanon are now ruling the country
 833	4	1	What is the reaction of blacks after the incident?	2	killed an unarmed black teen
 837	7	1	What were the issues with Zero tolerance punishments?	6	Zero tolerance punishments
@@ -1806,7 +1806,7 @@ file_num	elab_line	worker_num	question	target_line	target
 1136	8	5	Why is Geomagnetism regarded as a very strong force?	7	very strong force
 1139	24	5	What other thing can be bad for children?	23	bad for children
 1141	16	5	What are the other jobs people do but were not shown?	15	other jobs people do.
-1145	3	5	How can the letter grouping "ough" be pronounced?	1	the letter grouping "ough
+1145	3	5	How can the letter grouping ""ough"" be pronounced?	1	the letter grouping ""ough
 1139	24	6	How bad is pizza for children?	23	pizza can be bad
 1141	16	6	What are some jobs that aren't shown?	15	many other jobs
 1145	3	6	What is one way that it can be said?	2	different ways
@@ -1887,16 +1887,16 @@ file_num	elab_line	worker_num	question	target_line	target
 279	27	6	Does anyone support risking the damage from using bombs to blow up asteroids?	26	cause terrible damage on Earth
 265	20	3	Where did the Pilgrims land when they came to America?	19	Plymouth Rock.
 271	25	3	What are genes?	24	mosquito's genes have been changed.
-279	27	3	How do some people feel about the bomb idea?	29	a "hypervelocity nuclear interceptor system."
+279	27	3	How do some people feel about the bomb idea?	29	a ""hypervelocity nuclear interceptor system.""
 297	53	4	How is this quality expressed?	52	certain almost magical quality
 300	15	4	What are the capabilities of the pumpkin chuckin' cannon?	14	the pumpkin chuckin' cannon
 304	13	4	Besides taking them, would the Germans have orchestrated anything else related to them?	12	taken by the Germans
 297	53	1	What is different about oil paint?	52	Oil paint
 300	15	1	What does pumpkin chuckin' cannon do?	14	pumpkin chuckin' cannon
 304	13	1	Apart from German seizure, what else might have caused transfer of these objects?	12	taken by the Germans
-297	53	6	What is special about oil paint?	52	has a "certain almost magical quality
+297	53	6	What is special about oil paint?	52	has a ""certain almost magical quality
 300	15	6	Why should you be careful around the pumpkin chuckin' cannon?	14	Look out
-304	13	6	What is something else that could have happened to these objects?	12	thought or known to have been" taken by the Germans
+304	13	6	What is something else that could have happened to these objects?	12	thought or known to have been"" taken by the Germans
 308	27	5	Where do they shop since they often live in places with no grocery stores?	26	they often live in places with no grocery stores
 317	9	5	What will be the benefit of this new protective suit to the special soldiers?	7	protective suit for special soldiers
 325	9	5	Who invented The Rainbow Loom?	8	The Rainbow Loom
@@ -1947,7 +1947,7 @@ file_num	elab_line	worker_num	question	target_line	target
 430	1	0	What do people do when they get new electronic devices?	0	new electronic device
 443	22	0	How does global warming affect ice and snow?	21	global warming's effects on ice and snow
 455	11	0	How much of a problem is the sewage in the bay?	10	waste water
-459	14	0	What makes an app "leaky"?	12	Some apps are considered "leaky."
+459	14	0	What makes an app ""leaky""?	12	Some apps are considered ""leaky.""
 443	22	5	What are the effects of global warming?	21	global warming
 455	11	5	How do people see the waste water that's flushed out of homes and into the bay?	10	waste water
 459	14	5	How can spy agencies make use of the information it is being fed?	13	information
@@ -1973,7 +1973,7 @@ file_num	elab_line	worker_num	question	target_line	target
 498	16	6	What can we do about the problem to protect people's health?	15	take more lives
 503	3	6	What is happening to the birds leaving so few?	2	only about 600 birds
 490	24	5	What sort of question can be posed in respect to comparison with other types of bacteria?	22	other types of bacteria
-498	16	5	Which does the group running the "Clear on Calories" program do?	18	"Clear on Calories" program
+498	16	5	Which does the group running the ""Clear on Calories"" program do?	18	""Clear on Calories"" program
 503	3	5	Why are wildlife workers trying to keep them alive?	4	keep them alive
 508	49	0	Why did the protesters march to the parliament building?	48	toward the parliament building
 511	34	0	What does the law require for a murder to be first degree?	32	law says about first-degree murder
@@ -2032,7 +2032,7 @@ file_num	elab_line	worker_num	question	target_line	target
 66	4	0	Did the girls get put in the peace room in time?	5	girls were going to fight
 663	31	0	What is an invasive species?	30	invasive species.
 67	12	0	What kind of relationship does the U.S. have with Turkey?	11	important city for trade
-66	4	6	What happened as a result of them being sent to the peace room?	3	ended up in Manley High School's "peace room."
+66	4	6	What happened as a result of them being sent to the peace room?	3	ended up in Manley High School's ""peace room.""
 663	31	6	What is an invasive species?	30	invasive species
 67	12	6	What is something else interesting about Istanbul?	11	important city for trade
 671	30	5	What are genes?	29	genes
@@ -2069,10 +2069,10 @@ file_num	elab_line	worker_num	question	target_line	target
 766	7	5	Who are these hungry Iraqis pushed back by the police?	6	hungry Iraqis
 768	18	5	What other type of pictures can drones take?	17	drones to take pictures
 776	7	4	What is meant by the term, migrants?	6	migrants
-781	21	4	Why have decades passed with no resolution?	20	negotiating " and fighting " over the land for decades
+781	21	4	Why have decades passed with no resolution?	20	negotiating "" and fighting "" over the land for decades
 79	32	4	What else is involved?	31	isn't the only thing
 776	7	5	What group of people can be called migrants?	6	migrants
-781	21	5	Why have the negotiation and fighting over land between Israelis and Palestinians been on for decades?	20	negotiating " and fighting "
+781	21	5	Why have the negotiation and fighting over land between Israelis and Palestinians been on for decades?	20	negotiating "" and fighting ""
 79	32	5	What can release greenhouse gases aside from cow dung?	31	greenhouses gases
 791	5	1	What is the use of such information processing?	4	finding out what the information means
 796	31	1	Who else has story similar to Sanchez?	30	more energy
@@ -2081,7 +2081,7 @@ file_num	elab_line	worker_num	question	target_line	target
 796	31	4	Who deserves credit for helping with the weight loss?	28	lost about 20 pounds
 800	22	4	What does it do with these purchased materials?	21	buys up raw materials
 791	5	6	What can this information be used for?	4	finding out what the information means
-796	31	6	Why does he have more energy?	30	"I have a lot more energy."
+796	31	6	Why does he have more energy?	30	""I have a lot more energy.""
 800	22	6	Why are they buying oil and minerals?	21	buys up raw materials like oil and minerals
 802	35	5	Who is Prince Hamlet?	34	Prince Hamlet
 805	31	5	What happened during World War II?	30	World War II
@@ -2089,7 +2089,7 @@ file_num	elab_line	worker_num	question	target_line	target
 802	35	1	Who is Hamlet?	34	Hamlet
 805	31	1	What was the consequence of World War II?	30	World War II
 810	27	1	How is farm divided between families?	26	families use the farm
-802	35	0	Is there more to know about Hamlet?	34	"Hamlet" is the story
+802	35	0	Is there more to know about Hamlet?	34	""Hamlet"" is the story
 805	31	0	What resulted from World War II?	30	World War II
 810	27	0	How do so many families use the same farm?	26	100 families use the farm
 819	6	5	What is a unique attribute of the 1,000 students?	3	1,000 students
@@ -2114,7 +2114,7 @@ file_num	elab_line	worker_num	question	target_line	target
 882	37	4	Why are the seeds considered to be heritage?	36	heritage seeds
 884	18	4	How do others views this decision?	17	older people are expected to vote to stay
 867	12	6	What was the difference between the two videos?	11	a different video showed Rice pulling her out of the elevator
-882	37	6	Why are these seeds called "heritage" seeds?	36	heritage seeds
+882	37	6	Why are these seeds called ""heritage"" seeds?	36	heritage seeds
 884	18	6	Why is it important that six out of ten older people are expected to vote to stay in the UK?	17	are expected to vote to stay
 867	12	1	what did the video not show?	11	video showed
 882	37	1	What is the significance of heritage seeds?	36	heritage seeds
@@ -2209,10 +2209,10 @@ file_num	elab_line	worker_num	question	target_line	target
 1136	12	3	What does Geomagnetism do to a compass?	11	geomagnetism
 1140	3	6	What is the Super Bowl?	2	Super Bowl
 1141	45	6	What are benefits of the program?	44	allow students to earn an associate degree
-1145	4	6	What's another example of a sound represented by "ough" in the English language?	3	for one
+1145	4	6	What's another example of a sound represented by ""ough"" in the English language?	3	for one
 1140	3	0	Is there anything special about the Super Bowl?	2	The Super Bowl
 1141	45	0	How does earning an associate degree through the program help students?	44	earn an associate degree
-1145	4	0	What are some ways "ough" is said?	2	be said different ways
+1145	4	0	What are some ways ""ough"" is said?	2	be said different ways
 1147	42	6	Were the patterns the same for everyone?	41	They hope that these patterns are the same
 1149	16	6	Why is it difficult for Venezuelans to buy and sell things on their own?	15	cannot buy and sell things on their own easily
 1155	26	6	What is a benefit of the children becoming better leaders?	25	better leaders
@@ -2250,7 +2250,7 @@ file_num	elab_line	worker_num	question	target_line	target
 149	5	6	How does the improved computer help make the forecasts better?	4	improved computer program
 152	51	6	What would Musk have to worry about?	50	have things to worry
 154	27	6	What is fog?	26	fog
-163	28	6	Why did she not want GMOs?	27	believed that the "natural" label meant they had no GMOs
+163	28	6	Why did she not want GMOs?	27	believed that the ""natural"" label meant they had no GMOs
 180	14	6	How do police figure out who is most likely to be shot?	13	be shot themselves
 154	27	5	What is fog made of?	26	fog
 163	28	5	What is the disadvantage of cheaper snacks without GMOs?	29	cheaper snacks without GMOs
@@ -2262,11 +2262,11 @@ file_num	elab_line	worker_num	question	target_line	target
 197	20	3	What did Morse say about losing his job?	17	continue to fight for gun control.
 209	3	3	How is carbon-fiber composite cloth similar to cloth?	1	carbon-fiber composites.
 221	21	3	What rules do the Chinese have about planes?	22	Flights are spaced about 7 to 10 miles apart.
-226	36	3	What does "Undue hardship" mean?	35	"Undue hardship"
+226	36	3	What does ""Undue hardship"" mean?	35	""Undue hardship""
 239	13	3	What part of the voting law is particularly difficult.	10	North Carolina law
 221	21	5	Why are flights in China spaced about 7 to 10 miles apart?	22	spaced about 7 to 10 miles apart
-226	36	5	What does "undue hardship" for the company mean?	34	"undue hardship" for the company
-239	13	5	What is one of the troubling new rules placed on voters?	10	"troubling" new rules on voters
+226	36	5	What does ""undue hardship"" for the company mean?	34	""undue hardship"" for the company
+239	13	5	What is one of the troubling new rules placed on voters?	10	""troubling"" new rules on voters
 250	8	6	What happens after Congress makes a law?	7	make laws
 254	14	6	What happens during their hibernation?	13	hibernation
 257	41	6	What is a consequence of the CDC not monitoring the flu?	40	stop monitoring flu
@@ -2429,7 +2429,7 @@ file_num	elab_line	worker_num	question	target_line	target
 756	17	6	Could any benefits happen before the final decision is made?	16	years before a final decision is made.
 766	18	6	What do other groups think about the government being run by Shiites?	17	government is run by Shiites
 768	19	6	What else can drones take pictures of?	18	can take pictures of nature
-776	23	6	What will happen if they're not automatically sent back home?	22	may no longer be "automatically sent
+776	23	6	What will happen if they're not automatically sent back home?	22	may no longer be ""automatically sent
 785	7	6	Can these children go to American schools?	6	one of the few places where the children are sure to get help
 790	5	6	What happens if a swimmer is carried along with the flow?	4	carried along with the flow
 776	23	3	What will happen with the cases of Central American refugees?	20	Perhaps Central Americans can be considered refugees
@@ -2478,10 +2478,10 @@ file_num	elab_line	worker_num	question	target_line	target
 898	39	3	What is the ulu?	35	Scientists collected stories from Quinhagak elders about the objects they found.
 905	5	3	What were the new history standards intended to do?	4	change history standards
 905	18	3	What impact might the reading material have on students?	17	reading such material will change students' thinking.
-909	21	3	What does the "Let's Move" project do for children?	20	"Let's Move."
+909	21	3	What does the ""Let's Move"" project do for children?	20	""Let's Move.""
 911	13	3	What is the Institute of Medicine?	14	healthier school meals
 905	18	6	What do they think will happen to the students if the material changes them?	17	will change students' thinking
-909	21	6	What does "Let's Move" do?	20	"Let's Move."
+909	21	6	What does ""Let's Move"" do?	20	""Let's Move.""
 911	13	6	Why is the Healthy, Hunger Free Kids Act?	12	Healthy, Hunger-Free Kids Act
 914	33	6	Why doesn't the same way work everywhere?	32	no one way that works everywhere
 918	15	6	What happened because of the Cuban revolution?	14	revolution in Cuba
@@ -2498,7 +2498,7 @@ file_num	elab_line	worker_num	question	target_line	target
 944	16	6	Why is the E Pluribus Unum saying interesting?	15	E Pluribus Unum
 945	10	6	What is way that black people weren't being treated equally?	9	be treated equally
 949	31	6	What happened on the Silk Road?	30	The Silk Road
-944	16	5	On what items can one find the quote "E Pluribus Unum"?	15	E Pluribus Unum
+944	16	5	On what items can one find the quote ""E Pluribus Unum""?	15	E Pluribus Unum
 945	10	5	Why did King fight for black people to be treated equally?	9	King fought for black people to be treated equally
 949	31	5	Which people have benefited from studying the cave paintings?	27	cave paintings
 952	39	5	Did the Ukrainians with a Russian background believe the claim that they were being protected?	37	protect Ukrainians with a Russian background
@@ -2777,10 +2777,10 @@ file_num	elab_line	worker_num	question	target_line	target
 770	33	5	Why were the smaller poetry contests held?	32	smaller poetry contests
 778	3	3	How long has fighting been going on in eastern Ukraine?	1	fighting in eastern Ukraine.
 788	29	3	Who is Dr. Anthony Fauci?	28	Dr. Anthony Fauci
-790	49	3	Is the "float and wait approach" always safe?	48	float and wait
+790	49	3	Is the ""float and wait approach"" always safe?	48	float and wait
 778	3	5	How long has the fighting in eastern Ukraine lasted?	1	fighting in eastern Ukraine
 788	29	5	Who does Dr. Anthony Fauci work for?	28	Dr. Anthony Fauci
-790	49	5	Are there any disadvantages of the "float and wait"?	48	float and wait
+790	49	5	Are there any disadvantages of the ""float and wait""?	48	float and wait
 794	7	4	Has Millward had any support in his plans?	3	Robert Millward, who started the initiative
 799	28	4	Where will she be giving the book back?	27	give it back
 800	26	4	What happens when they do hire them?	25	rarely hire
@@ -2802,10 +2802,10 @@ file_num	elab_line	worker_num	question	target_line	target
 822	1	5	Where do sea animals live in?	0	sea animals
 825	4	5	What is the repercussion of having more pop stars and fictional characters on stamps?	3	pop stars and fictional characters
 830	18	5	What can semen cause?	17	Semen
-837	5	3	What would happen to students who break rules?	4	Many schools started using a "zero tolerance" policy
+837	5	3	What would happen to students who break rules?	4	Many schools started using a ""zero tolerance"" policy
 840	5	3	What has happened to many people in Gaza?	4	Groups of Israelis and Palestinians have been fighting
 845	37	3	What do many people think of the cheating claims against Rice?	40	punish Rice
-837	5	5	What does "zero tolerance" policy mean?	4	"zero tolerance" policy
+837	5	5	What does ""zero tolerance"" policy mean?	4	""zero tolerance"" policy
 840	5	5	What has happened as a result of the fighting?	4	fighting
 845	37	5	Were there people who disagreed with the opinion that Rice had never been in trouble before?	36	Rice had never been in trouble before
 853	26	5	Which professionals support school days starting later?	27	school day starts later
@@ -2844,10 +2844,10 @@ file_num	elab_line	worker_num	question	target_line	target
 932	57	5	What do the people hoping to get a call saying they are the lucky winner do?	58	hoping to get a call saying they are the lucky winner
 933	20	5	What other reason make them take the class?	18	One reason they take the class
 937	21	5	Why are the represented countries not friendly ones?	20	not friendly ones.
-944	17	4	What is the significance of that message?	15	means "Out of many, one."
+944	17	4	What is the significance of that message?	15	means ""Out of many, one.""
 946	59	4	What do others think of the issue in light of this uphill battle?	57	real change is difficult
 949	38	4	How will these caves be cared for?	35	The caves
-944	17	5	What does the motto "E Pluribus Unum" mean?	15	E Pluribus Unum
+944	17	5	What does the motto ""E Pluribus Unum"" mean?	15	E Pluribus Unum
 946	59	5	Did people agree with the opinion that making a real change is difficult?	57	making a real change is difficult
 949	38	5	Which group planned to take care of the caves?	35	The caves
 952	40	0	What do some people think Russia is trying to do?	39	are not convinced
@@ -2866,14 +2866,14 @@ file_num	elab_line	worker_num	question	target_line	target
 971	19	5	What work does the poison do?	17	poison
 973	17	5	What is the job of the Save Maine's Bear Hunt?	16	Save Maine's Bear Hunt
 975	23	3	Who is Carol Folt?	22	Crowder and Nyang'oro are now retired.
-979	21	3	What do genes do?	20	Genes are the code, or "blueprint," of who a person is.
+979	21	3	What do genes do?	20	Genes are the code, or ""blueprint,"" of who a person is.
 988	18	3	What is Anne Meylan's profession?	13	loggerhead turtles
 975	23	5	Who said fake classes could have been caught sooner?	24	fake classes could have been caught sooner
 979	21	5	What do genes determine?	20	Genes
 988	18	5	Who said that they do not know why they are coming back?	20	why they are coming back
 992	10	5	Which groups disagreed with the rule change?	5	rule change
 999	15	5	What does it mean for East Germany to be communist?	14	East Germany was communist
-992	10	3	Who disagreed with the new "all-comers" rule at Cal State?	6	new "all-comers" rule
+992	10	3	Who disagreed with the new ""all-comers"" rule at Cal State?	6	new ""all-comers"" rule
 999	15	3	What did the East German government control when it was communist?	14	East Germany was communist
 992	10	0	Who disagrees with the rule change?	5	The disagreement
 999	15	0	What is a communist country like?	14	communist.
